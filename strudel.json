@@ -1,7 +1,7 @@
 {
     "_base": "https://raw.githubusercontent.com/terrorhank/samples/main/",
     "ping": "pings/ping01.mp3",
-    "mim_a": "beats/music_is_mine_01.mp3",
-    "mim_b": "beats/music_is_mine_02.mp3"
+    "mim_aa": "beats/music_is_mine_01.mp3",
+    "mim_ab": "beats/music_is_mine_02.mp3"
     
 }
