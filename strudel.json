@@ -12,6 +12,7 @@
     "wavekick_zero": ["beats/wavekick_0.mp3"],
     "wobble_bmax": ["basslines/wobble_b_max.mp3"],
     "flo_floaty": ["melodys/floaty.mp3"],
-    "turbo_atombomb": ["melodys/atombomb.mp3"]
-    
+    "turbo_atombomb": ["melodys/atombomb.mp3"],
+    "fatstacks_chill": ["talk/fatstackschill.mp3"],
+    "fatstacks_man": ["talk/fatstacksman.mp3"]
 }
