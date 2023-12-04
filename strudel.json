@@ -14,5 +14,6 @@
     "flo_floaty": ["melodys/floaty.mp3"],
     "turbo_atombomb": ["melodys/atombomb.mp3"],
     "fatstacks_chill": ["talk/fatstackschill.mp3"],
-    "fatstacks_man": ["talk/fatstacksman.mp3"]
+    "fatstacks_man": ["talk/fatstacksman.mp3"],
+    "basterdstrudel": ["asmr/basterdstrudel.mp3"]
 }
