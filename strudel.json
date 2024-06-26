@@ -15,5 +15,18 @@
     "turbo_atombomb": ["melodys/atombomb.mp3"],
     "fatstacks_chill": ["talk/fatstackschill.mp3"],
     "fatstacks_man": ["talk/fatstacksman.mp3"],
-    "basterdstrudel": ["asmr/basterdstrudel.mp3"]
+    "basterdstrudel": ["asmr/basterdstrudel.mp3"],
+    "gothenburg03_bll": ["kits/gothenburg03/bell.wav"],
+    "gothenburg03_cp": ["kits/gothenburg03/clap.wav"],
+    "gothenburg03_cym": ["kits/gothenburg03/cymbal.wav"],
+    "gothenburg03_hhcl": ["kits/gothenburg03/hihatcl.wav"],
+    "gothenburg03_hhop": ["kits/gothenburg03/hihatop.wav"],
+    "gothenburg03_bd": ["kits/gothenburg03/kick.wav"],
+    "gothenburg03_bdlo": ["kits/gothenburg03/kicklo.wav"],
+    "gothenburg03_prc": ["kits/gothenburg03/perc.wav"],
+    "gothenburg03_rm": ["kits/gothenburg03/rim.wav"],
+    "gothenburg03_sd": ["kits/gothenburg03/snare.wav"],
+    "gothenburg03_tmhi": ["kits/gothenburg03/tomhi.wav"],
+    "gothenburg03_tmlo": ["kits/gothenburg03/tomlo.wav"]
+
 }
